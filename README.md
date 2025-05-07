@@ -42,6 +42,8 @@ The testing protocol is the following:
     - 50 users making simultaneous requests between 1 and 3 seconds per user
     - 100 users making simultaneous requests between 1 and 3 seconds per user
 
+Locust will add 5 user each 5 seconds.
+
 Each test result is exported for analysis
 
 ## How to use the repository?
