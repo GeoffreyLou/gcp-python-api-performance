@@ -1,0 +1,19 @@
+[project]
+name = "python-api"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "loguru",
+    "python-dotenv",
+    "Faker",
+    "google-cloud-bigquery",
+    "fastapi",
+    "uvicorn",
+    "requests",
+    "locust"
+]
+
+[tool.uv.workspace]
+members = ["1__basic_api"]
