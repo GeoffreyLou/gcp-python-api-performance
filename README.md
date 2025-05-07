@@ -1,6 +1,6 @@
 # FastAPI performance test on GCP
 
-**WARNING** : This folder is :construction: under construction :construction:
+**WARNING** : This repository is :construction: under construction :construction:
 
 This repository is used to test **-FastAPI** performance on **GCP** with a basic API :
 - GET request with user ID
